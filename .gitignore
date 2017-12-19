@@ -1,0 +1,7 @@
+*.log
+yarn.lock
+node_modules
+index.js
+.rpt2_cache
+dist
+compiled
